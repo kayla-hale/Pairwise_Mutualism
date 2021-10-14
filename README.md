@@ -14,4 +14,4 @@ In all cases, equilibria were manually colored as stable or unstable by inspecti
 Threshold and Allee regions were shaded manually in Illustrator.
 To run these models dynamically, select "Evaluate Notebook" or "Evaluate Cells" one at a time from the "Evaluation" drop down menu.
 To most easily explore the dynamics of these models, run them with only the StreamPlot (vector field) and ContourPlots (non-trivial nullclines) showing, commenting everything else out (especially the separatrices) to avoid computational issues while manipulating parameters. 
-For a publication-level image, turn the other commands back on and specify the numerical limits or coloring according to the specific parameter case. 
+For a publication-quality image, turn the other commands back on and specify the numerical limits or coloring according to the specific parameter case. 
