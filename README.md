@@ -1,5 +1,11 @@
 # Pairwise_Mutualism
-This code base creates the raw image files used in the Hale et al. 2021 manuscript entitled "Dynamics of pollination and seed dispersal mutualisms at low density" for The American Naturalist (Manuscript 60685R1). 
+This code base creates the raw image files used in the Hale et al. 2021 manuscript entitled The American Naturalist (Manuscript 60685R1). 
+
+Citation:
+Dynamics of pollination and seed dispersal mutualisms at low density
+Kayla R. S. Hale, Daniel P. Maes, Fernanda S. Valdovinos
+doi: https://doi.org/10.1101/2021.05.05.442848
+
 All files are Mathematica Notebooks that find numerical solutions to the pairwise mutualism models in the main text. 
 The "Pollination.nb," "Negative Density-Dependence.nb," and "Germination.nb" files create the phase plane diagrams presented in Figs. 1, 2, and 3. 
 Within each file, ach code chunk includes the parameter values and commands for finding nullclines, equilibria, and separatrices shown in each panel of Figs. 1-3. 
