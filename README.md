@@ -8,7 +8,7 @@ doi: https://doi.org/10.1101/2021.05.05.442848
 
 All files are Mathematica Notebooks that find numerical solutions to the pairwise mutualism models in the main text. 
 The "Pollination.nb," "Negative Density-Dependence.nb," and "Germination.nb" files create the phase plane diagrams presented in Figs. 1, 2, and 3. 
-Within each file, ach code chunk includes the parameter values and commands for finding nullclines, equilibria, and separatrices shown in each panel of Figs. 1-3. 
+Within each file, each code chunk includes the parameter values and commands for finding nullclines, equilibria, and separatrices shown in each panel of Figs. 1-3. 
 The "Bifurcation.nb" file includes a code chunk that draws bifurcation diagrams for plants and animals for each of the models, using an illustrative set of parameters. 
 In all cases, equilibria were manually colored as stable or unstable by inspecting the local dynamics as computing this numerically was too slow. 
 Threshold and Allee regions were shaded manually in Illustrator.
